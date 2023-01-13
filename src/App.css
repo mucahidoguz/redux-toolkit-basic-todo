@@ -1,0 +1,35 @@
+* {
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+
+.App {
+
+}
+
+h1 {
+margin-left: 50px;
+}
+
+.todoEnter {
+  margin-left: 40px;
+  border-radius: 5px;
+  height: 35px;
+  width: 250px;
+}
+
+.todoEnter:hover {
+  background-color: bisque;
+  font-weight: bold;
+}
+
+.todoUl {
+  display: flex;
+  flex-direction: column;
+}
+
+.todoLi {
+  margin: 0px;
+  padding: 0px;
+}
